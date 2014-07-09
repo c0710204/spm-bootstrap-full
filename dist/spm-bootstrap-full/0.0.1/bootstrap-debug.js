@@ -1,10 +1,11 @@
-define("spm-bootstrap-full/0.0.1/index-debug", ["jquery/2.1.0/jquery-debug"], function(require, exports, module) {
+define("spm-bootstrap-full/0.0.1/bootstrap-debug", ["jquery/2.1.0/jquery-debug"], function(require, exports, module) {
   /*!
    * Bootstrap v3.2.0 (http://getbootstrap.com)
    * Copyright 2011-2014 Twitter, Inc.
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    */
   var jQuery = require("jquery/2.1.0/jquery-debug");
+  //require("src/bootstrap.css");
   if (typeof jQuery === 'undefined') {
     throw new Error('Bootstrap\'s JavaScript requires jQuery')
   }
