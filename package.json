@@ -2,12 +2,12 @@
   "name": "spm-bootstrap-full",
   "version": "0.0.1",
   "description": "the full bootstrap for spm",
-  "keywords": [],
+  "keywords": ["bootstrap"],
   "homepage": "",
-  "author": "",
+  "author": "c0710204",
   "repository": {
     "type": "git",
-    "url": "git://github.com/asus/3.git"
+    "url": "git://github.com/c0710204/spm-bootstrap-full.git"
   },
   "bugs": {
     "url": ""
